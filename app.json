@@ -1,0 +1,11 @@
+{
+  "name": "Stranger Music Docs",
+  "description": "Documentation website for Stranger Music Bot",
+  "keywords": ["documentation", "website", "bot"],
+  "image": "heroku/php",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
